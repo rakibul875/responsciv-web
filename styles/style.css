@@ -165,7 +165,7 @@ nav {
 
     .menu ul{
         flex-wrap: wrap-reverse;
-        gap: 25px;
+        gap: 30px;
         margin-top: 25px;
     }
     #bennar {
@@ -231,6 +231,7 @@ nav {
     }
 
     .Collection-card{
-        width: 100%;
+        width: 95%;
+        margin: 0 auto;
     }
 }
