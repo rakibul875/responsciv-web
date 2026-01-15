@@ -212,38 +212,39 @@ nav {
     margin-top: 90px;
 }
 
-.footer-contant{
+.footer-contant {
     text-align: center;
     padding: 50px 569px;
 }
 
-.footer-contant h3{
+.footer-contant h3 {
     font-size: 24px;
     font-weight: bold;
     color: #FFFFFF;
 }
 
-.footer-contant p{
-    font-size: 14px;
-    font-weight: bold;
-    line-height: 28px;
-    color: #D9DBE1;
-}
-.footer-contant h4{
+.footer-contant p {
     font-size: 14px;
     font-weight: bold;
     line-height: 28px;
     color: #D9DBE1;
 }
 
-.socil a{
+.footer-contant h4 {
+    font-size: 14px;
+    font-weight: bold;
+    line-height: 28px;
+    color: #D9DBE1;
+}
+
+.socil a {
     background-color: #120d55;
-    
+
     padding: 16px;
     border-radius: 50%;
 }
 
-.socil a i{
+.socil a i {
     font-size: 16px;
     margin-top: 20px;
     color: #FFFFFF;
@@ -264,7 +265,7 @@ nav {
 
     .menu ul {
         flex-wrap: wrap-reverse;
-        gap: 30px;
+        gap: 20px;
         margin-top: 25px;
     }
 
@@ -332,9 +333,12 @@ nav {
 
     .Collection-card {
         justify-content: center;
+        align-items: center;
         width: 95%;
         margin: 0 auto;
     }
+
+
 
     .see-more {
         justify-content: center;
@@ -368,7 +372,7 @@ nav {
         padding-left: 20px;
     }
 
-    .footer-contant{
+    .footer-contant {
         text-align: center;
         padding: 50px 68px;
     }
@@ -376,18 +380,20 @@ nav {
     .footer-contant h3 {
         font-size: 16px;
     }
+
     .footer-contant h4 {
         font-size: 12px;
     }
 
-    .footer-contant p{
+    .footer-contant p {
         font-size: 10px;
         line-height: 20px;
         width: 224px;
         margin-top: 10px;
     }
 
-    .socil a{
+    .socil a {
         padding: 8px;
     }
+
 }
