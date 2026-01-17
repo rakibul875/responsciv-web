@@ -334,8 +334,13 @@ nav {
     .Collection-card {
         justify-content: center;
         align-items: center;
+        height: 100%;
         width: 95%;
         margin: 0 auto;
+    }
+
+    .Collection-card img{
+        width: 100%;
     }
 
 
